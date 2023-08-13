@@ -1,5 +1,14 @@
-# Hi there 👋 , T'm Sanmitra
+# Hi there 👋 , I'm Sanmitra
 
+<h1>
+  
+</h1>
+
+Connect with me :
+
+<a href="https://www.linkedin.com/in/sanmitra-t-n/">
+  <img src="https://www.flaticon.com/free-icon/linkedin_3536505">
+</a>
 <!--
 **SanmitraTN/SanmitraTN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
