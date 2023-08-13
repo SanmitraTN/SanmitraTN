@@ -19,11 +19,19 @@
   </a>
 
 </div>
+<br>
+<br>
 
+<div align="center">
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanmitraTN&theme=radical"/>
+</div>
 
-<div>
+<br>
+<br>
+
+<div align="center">
   <h3>
-    Languages and Tools :
+    Languages and Tools
   </h3>
   
   <div>
@@ -51,6 +59,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" title="Visual Studio Code">&nbsp;  
   </div>  
 </div>
+
+
+
 <!--
 **SanmitraTN/SanmitraTN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
