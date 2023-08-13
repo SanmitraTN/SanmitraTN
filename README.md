@@ -1,8 +1,5 @@
 # Hi there 👋 , T'm Sanmitra
 
-📫 How to reach me: sanmitratn@gmail.com
-
-
 <!--
 **SanmitraTN/SanmitraTN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
